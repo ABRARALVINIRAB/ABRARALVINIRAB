@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on 
+<!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning MERN stack development
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with ...
