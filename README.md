@@ -5,7 +5,7 @@
 
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning MERN stack development
+- 🌱 Software Engineer at Skyland Web, specializing in MERN stack development
 - 👯 I’m looking to collaborate on Youtube
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about MERN stack
